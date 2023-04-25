@@ -1,0 +1,90 @@
+.bg-dark{
+    background-color: black;
+}
+.ft1{
+    margin-top: 1cm;
+    margin-left: 1cm;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.5cm;
+}
+.ft2{
+    margin-left: 1cm;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8ch;
+}
+.ft3{
+    margin-left: 1cm;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2ch;
+}
+.a{
+    margin-left: 2cm;
+    background-color:#c1c0c0;
+    border-radius: 25px;
+    width: 390px;
+    height: 140px;
+    padding-bottom: 2cm;
+    
+}
+.mix1{
+    display: flex;
+    padding-top: .5cm;
+    padding-bottom: 1cm;
+}
+.b{
+    margin-left: 2cm;
+    background-color:#c1c0c0;
+    border-radius: 25px;
+    width: 200px;
+    height: 216px;
+    
+}
+.ft4{
+    margin-top: 1cm;
+    margin-left: .7cm;
+    margin-bottom: 0.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ft5{
+    margin-left: .8cm;
+}
+.ft6{
+    margin-left: .8cm;
+}
+.ft7{
+    margin-left: .8cm;
+}
+.ft8{
+    margin-left: .8cm;
+}
+.call{
+    margin-top: .5cm;
+    margin-left: 2cm;
+    background-color:#c1c0c0;
+    border-radius: 25px;
+    width: 280px;
+    height: 217px;
+}
+.contact{
+    padding-left: 1cm;
+    padding-top: 1cm;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-bottom: .5cm;
+}
+.mix2{
+    display: flex;
+    margin-top: -1cm;
+}
+.bisque{
+    background-color: bisque;
+}
+.ph_no{
+    padding-left: 1.2cm;
+    padding-top: .3cm;
+}
+.mail{
+    padding-left: 1.2cm;
+}

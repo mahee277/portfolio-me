@@ -1,0 +1,34 @@
+
+.mahee{
+
+  color: #E86A33;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 1cm;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  margin-right: 9cm;
+}
+.up{
+  display:flex;
+  justify-content: space-between;
+  padding-left: 9cm;
+  margin-top: .7cm;
+  border-radius: 25px;
+  background-color: #c1c0c0;
+  padding: 20px;
+  width: 294px;
+  height: fit-content;
+  list-style: none;
+  
+}
+.up li{
+  border: 1px red;
+}
+.dex1{
+  display: flex;
+  background-color: #FFF3E2; 
+}
+A{
+  text-decoration: none;
+  color:inherit;
+}
